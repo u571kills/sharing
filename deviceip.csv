@@ -1,0 +1,7 @@
+Host,Model,Location
+Site1Switch1,WS-C3850-24XS,Site1
+Site1Switch2,WS-C6509-E (s72033_rp series),Site1
+Site1Switch3,WS-C6509-E (s72033_rp series),Site1
+Site2Switch1,WS-C3850-24XS,Site2
+Site2Switch2,WS-C6509-E (s72033_rp series),Site2
+Site2Switch3,WS-C6509-E (s72033_rp series),Site2
